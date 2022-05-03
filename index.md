@@ -1,6 +1,31 @@
 ## Welcome to Tracker DQM documentation page.
 This page is aimed to provide the most up-to-date documentation for Tracker Offline shift crew - shifters, shift leaders and on-call experts.  
 
+# Main Documentation
+
+## Common pages
+Links to common pages needed by all.
+
+- DQM/DC
+  - **[Offline DQM GUI](https://cmsweb.cern.ch/dqm/offline)**
+  - **[Online DQM GUI](https://cmsweb.cern.ch/dqm/online)**
+  - **[Run Registry](https://cmsrunregistry.web.cern.ch/offline/datasets/tracker?)**
+  - **[OMS](https://cmsoms.cern.ch/)**
+  - **[Tier0 Monitor](https://cmsweb.cern.ch/tier0_wmstats/index.html)**
+
+- ELOG
+
+## Shifter documentation
+This section describes the duties of a shifter.
+
+## Shift Leader documentation
+This section describes the duties of a shift leader.
+
+## DQM On-call experts
+This section describes the duties of an on-call expert.
+
+## Communication channels
+
 ## Editing and maintaing content
 You can use the [editor on GitHub](https://github.com/sroychow/tkdqmdocumentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -19,23 +44,4 @@ This page is built on Jekyll theme.
 ### Support or Contact
 
 Having trouble with Pages? [contact support](sroychow@cern.ch).
-
-# Main Documentation
-
-## Common pages
-Links to common pages needed by all.
-
-**[DQM GUI](https://cmsweb.cern.ch/dqm/offline)**
-
-## Shifter documentation
-This section describes the duties of a shifter.
-
-## Shift Leader documentation
-This section describes the duties of a shift leader.
-
-## DQM On-call experts
-This section describes the duties of an on-call expert.
-
-## Communication channels
-
 
