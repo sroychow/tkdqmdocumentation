@@ -15,14 +15,11 @@ Links to common pages needed by all.
 
 - ELOG
 
-## Shifter documentation
-This section describes the duties of a shifter.
+## [Shifter documentation](shifter/shifter.md) 
 
-## Shift Leader documentation
-This section describes the duties of a shift leader.
+## [Shift Leader documentation](shifteleader/shiftleader.md)
 
-## DQM On-call experts
-This section describes the duties of an on-call expert.
+## [DQM On-call experts](oncall/oncall.md)
 
 ## Communication channels
 
