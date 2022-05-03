@@ -20,20 +20,22 @@ This page is built on Jekyll theme.
 
 Having trouble with Pages? [contact support](sroychow@cern.ch).
 
-#Main Documentation
+# Main Documentation
 
-##Common pages
+## Common pages
 Links to common pages needed by all.
 
-##Shifter documentation
+**[DQM GUI](https://cmsweb.cern.ch/dqm/offline)**
+
+## Shifter documentation
 This section describes the duties of a shifter.
 
-##Shift Leader documentation
+## Shift Leader documentation
 This section describes the duties of a shift leader.
 
-##DQM On-call experts
+## DQM On-call experts
 This section describes the duties of an on-call expert.
 
-##Communication channels
+## Communication channels
 
 
