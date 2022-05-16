@@ -14,6 +14,17 @@ Links to common pages needed by all.
   - **[Tier0 Monitor](https://cmsweb.cern.ch/tier0_wmstats/index.html)**
 
 - ELOG
+  - **[Common Elog](https://cmsonline.cern.ch/webcenter/portal/cmsonline/pages_common/elog)**
+  - **Elogs which are relevant for Tracker Offline crew**
+    - **Subsystems > Tracker > Tracker Offline: This is where the offline crew submit their daily reports.**
+    - **Subsystems > Tracker > Tracker: This is where online crew reports on activities, issues at P5.**
+    - **General > Shift leader: This is the elog of the Shift Leader at P5. Useful source of information incase one wants to find out about data taking conditions**
+    - **Subsystems > Event Display and DQM: ELog of the online DQM shifter at P5.**
+
+- Histogram description twikis
+  - **[Strip](https://twiki.cern.ch/twiki/bin/viewauth/CMS/SiStripOfflineDQMHistoDescription)**
+  - **[Pixel Phase1](https://twiki.cern.ch/twiki/bin/view/CMS/PixelPhase1OfflineDQMHistoDescription)**
+  - **[Tracking](https://twiki.cern.ch/twiki/bin/view/CMS/TrackingOfflineDQMHistoDescription)**
 
 ## [Shifter documentation](shifter/shifter.md) 
 
